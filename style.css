@@ -2,18 +2,20 @@
 body {
   text-align: center;
   background-color: #D4F5F5;
-  color: #554348
-}
+ 
 
     h1 {
     color: Black;
+      font-family: tahoma;
       font-family: 'Indie Flower', cursive;
       font-size:300%;
     }
    
-    h2 { color: black;
-    font-family: 'Indie Flower', cursive;
-    font-size:180%;
+    h2 { 
+    color: black;
+      font-family: tahoma;
+      font-family: 'Indie Flower', cursive;
+      font-size:180%;
     }
     
     body {
