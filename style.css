@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+  text-align: center;
+  background-color: #D4F5F5;
+  color: #554348
+}
+
+    h1 {
+    color: Black;
+      font-family: 'Indie Flower', cursive;
+      font-size:300%;
+    }
+   
+    h2 { color: black;
+    font-family: 'Indie Flower', cursive;
+    font-size:180%;
+    }
+    
+    body {
+    color: Black;
+      font-family: 'Indie Flower', cursive;
+    }
+#face{
+  width:50%;
+}
+
+#dryy{
+  width:35%;
+}
+
+#normall{
+  width:35%;
+}
+#oilyy{
+  width:35%;
+}
